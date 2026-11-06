@@ -4,6 +4,10 @@
 
 Not yet. PagePing is currently a local development preview. This repository will be updated when a public version is available.
 
+## When will it be available?
+
+There is no launch date yet. The [roadmap](ROADMAP.md) shows the stages still to come: a private hosted beta, then a paid beta for invited customers, then public sign-up. Watch this repository to hear when each stage starts.
+
 ## What does PagePing monitor?
 
 The current build monitors selected content on supported public webpages, with conditions for changes such as phrases, numbers, prices and stock status. Support varies by website.
